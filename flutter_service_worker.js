@@ -74,7 +74,7 @@ const RESOURCES = {".git/objects/b7/49bfef07473333cf1dd31e9eed89862a5d52aa": "36
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"flutter_bootstrap.js": "8223423af63940d2a69ba945e194512d",
+"flutter_bootstrap.js": "c0ec853999d22e2488db9eb5015fd865",
 "manifest.json": "56128fc6ec7568b99d6fc24cfa34a218",
 "main.dart.js": "665042b2ef2335f8b0a54ca2c9419eea",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
