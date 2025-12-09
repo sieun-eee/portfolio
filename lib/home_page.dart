@@ -70,7 +70,6 @@ class HomePage extends StatelessWidget {
         ),
         children: [
           TextSpan(text: text, style: TextStyle(color: Color(0xFF6327E9))),
-          TextSpan(text: ".", style: TextStyle(color: Color(0xFF38393B))),
         ],
       ),
     );
