@@ -166,7 +166,7 @@ class HomePage extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         _profileItem("• LG전자 DX SCHOOL", "2024.12 - 2025.06"),
-        _profileItem("• 브랜드마케팅 직무부트캠프", "2024.07 - 2024.08"),
+        _profileItem("• 이디야커피 브랜드마케팅 직무부트캠프", "2024.07 - 2024.08"),
         _profileItem("• EBS 유튜브 채널 '딩대' 대학생 홍보대사", "2021.01 - 2021.02"),
         _profileItem("• 동국대 공식 홍보대사 ‘동감’", "2019.03 - 2020.12"),
         _profileItem("• 한국상경학회(KCC)", "2019.03 - 2019.10"),
