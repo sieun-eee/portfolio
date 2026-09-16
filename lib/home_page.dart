@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
         // 2) My Story 섹션의 본문
         Text(
           "경영학을 전공하여 마케팅 관련 전공을 집중적으로 이수하며 통산 30번 이상의 팀 프로젝트를 진행했습니다.\n"
-          "뿐만 아니라, 대내외 홍보대사 활동 및 콘텐츠 관련 인턴 경험을 통해 콘텐츠 마케팅에 대한 역량을 길러왔습니다.",
+          "뿐만 아니라, 대내외 홍보대사 활동 및 콘텐츠 관련 인턴 경험을 통해 마케팅에 대한 역량을 길러왔습니다.",
           style: TextStyle(
             fontSize: 16,
             height: 24 / 16,
@@ -104,6 +104,11 @@ class HomePage extends StatelessWidget {
             color: Color(0xFF38393B),
           ),
         ),
+        const SizedBox(height: 12),
+        _profileItem("• 롯데쇼핑", "2025.12 - 재직 중"),
+        _sub("- 디스플레이 광고 관리 및 운영"),
+        _sub("- CRM 마케팅"),
+        _sub("- 광고 캠페인 기획 및 협업"),
         const SizedBox(height: 12),
         _profileItem("• 페타소나", "2025.09 - 2025.11"),
         _sub("- SNS 채널 운영"),
@@ -249,7 +254,7 @@ class HomePage extends StatelessWidget {
               _skill("• 그래픽 디자인"),
               _sub("- GTQ그래픽기술자격 1급 보유"),
               _skill("• 데이터 분석"),
-              _sub("- GA4, ADsP 자격증 보유"),
+              _sub("- GA4, ADsP 자격증 보유 및 sql 실무 활용 경험"),
               _skill("• 시장 조사 및 트렌드 파악"),
               _sub("- 실무 경험 다수"),
             ],
@@ -344,7 +349,7 @@ class HomePage extends StatelessWidget {
         ),
         Container(height: 20),
         Text(
-          "콘텐츠",
+          "브랜드",
           style: TextStyle(
             height: 1,
             color: Color(0xFF6327E9),
@@ -365,7 +370,7 @@ class HomePage extends StatelessWidget {
         Container(height: 20),
 
         Text(
-          "마음을 읽는 콘텐츠 마케터, 유시은입니다.",
+          "마음을 읽는 브랜드 마케터, 유시은입니다.",
           style: TextStyle(
             color: Color(0xFF38393B),
             fontSize: 22,
